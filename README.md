@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Credit Risk & Default Prediction Model
 
 ## Project Overview
