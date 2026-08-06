@@ -51,6 +51,9 @@ To help financial institutions identify high-risk customers before approving loa
 
 - Accuracy: **91.93%**
 - ROC-AUC Score: **0.742**
+- ### ROC Curve
+
+![ROC Curve](image/roc_curve.png)
 
 ---
 
