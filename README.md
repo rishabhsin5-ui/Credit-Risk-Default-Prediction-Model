@@ -72,6 +72,18 @@ https://www.kaggle.com/competitions/home-credit-default-risk
 
 ---
 
+## Project Structure
+
+```
+Credit-Risk-Default-Prediction-Model/
+│
+├── Credit_Risk_Prediction.ipynb   # Complete model development
+├── credit_risk_model.pkl          # Trained Logistic Regression model
+├── requirements.txt               # Required Python libraries
+├── README.md                      # Project documentation
+└── image/
+    └── roc_curve.png              # ROC Curve
+```
 ## Author
 
 **Rishab Singh**
