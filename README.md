@@ -15,9 +15,9 @@ To help financial institutions identify high-risk customers before approving loa
 
 ## Dataset
 
-- Source: Kaggle – Home Credit Default Risk
-- Records: 307,511
-- Features: 122
+The project uses the **Home Credit Default Risk** dataset available on Kaggle.
+
+https://www.kaggle.com/competitions/home-credit-default-risk
 
 ---
 
