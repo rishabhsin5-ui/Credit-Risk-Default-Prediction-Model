@@ -87,3 +87,8 @@ Credit-Risk-Default-Prediction-Model/
 ## Author
 
 **Rishab Singh**
+
+M.Sc. Statistics
+
+GitHub:
+https://github.com/rishabhsin5-ui
