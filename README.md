@@ -49,8 +49,14 @@ To help financial institutions identify high-risk customers before approving loa
 
 ## Model Performance
 
-- Accuracy: **91.93%**
-- ROC-AUC Score: **0.742**
+| Metric | Value |
+|--------|-------|
+| Model | Logistic Regression |
+| Accuracy | 91.93% |
+| ROC-AUC Score | 0.742 |
+| Dataset | Home Credit Default Risk |
+| Language | Python |
+
 ### ROC Curve
 
 ![ROC Curve](image/roc_curve.png)
