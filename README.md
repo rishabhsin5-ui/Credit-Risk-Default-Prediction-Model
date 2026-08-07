@@ -72,6 +72,12 @@ https://www.kaggle.com/competitions/home-credit-default-risk
 |-------------------------|-----------------------------|
 | <img src="image/missing_values_heatmap.png" width="450"> | <img src="image/correlation_heatmap.png" width="450"> |
 
+## Class Distribution
+
+<p align="center">
+  <img src="image/class_distribution.png" width="500">
+</p>
+
 ### ROC Curve
 
 ![ROC Curve](image/roc_curve.png)
