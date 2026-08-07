@@ -66,7 +66,7 @@ https://www.kaggle.com/competitions/home-credit-default-risk
 
 | ROC Curve | Confusion Matrix |
 |-----------|------------------|
-| <img src="image/roc_curve.png" width="450"> | <img src="image/confusion_matrix.png" width="450"> |
+| <img src="image/roc_curve.png" width="500"> | <img src="image/confusion_matrix.png" width="450"> |
 
 | Missing Values Heatmap | Feature Correlation Heatmap |
 |-------------------------|-----------------------------|
