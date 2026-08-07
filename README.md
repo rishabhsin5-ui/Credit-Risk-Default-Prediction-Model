@@ -62,6 +62,16 @@ https://www.kaggle.com/competitions/home-credit-default-risk
 | Dataset | Home Credit Default Risk |
 | Language | Python |
 
+## Visualizations
+
+| ROC Curve | Confusion Matrix |
+|-----------|------------------|
+| <img src="image/roc_curve.png" width="450"> | <img src="image/confusion_matrix.png" width="450"> |
+
+| Missing Values Heatmap | Feature Correlation Heatmap |
+|-------------------------|-----------------------------|
+| <img src="image/missing_values_heatmap.png" width="450"> | <img src="image/correlation_heatmap.png" width="450"> |
+
 ### ROC Curve
 
 ![ROC Curve](image/roc_curve.png)
